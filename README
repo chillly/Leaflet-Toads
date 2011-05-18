@@ -1,0 +1,9 @@
+Toads
+=====
+
+Display a map showing the locations of toad sculptures in and around
+Hull. 
+
+Note the scuptures have now been removed - this is an example map only.
+
+The map is created using the Leaflet library from Cloudmade.
